@@ -1,0 +1,19 @@
+E:\Users\Kauã\AppData\Local\Temporary Projects\PythonJavascript\bin\Debug\PythonJavascript.exe
+E:\Users\Kauã\AppData\Local\Temporary Projects\PythonJavascript\bin\Debug\PythonJavascript.pdb
+E:\Users\Kauã\AppData\Local\Temporary Projects\PythonJavascript\bin\Debug\PythonJavascript.xml
+E:\Users\Kauã\AppData\Local\Temporary Projects\PythonJavascript\obj\x86\Debug\PythonJavascript.Form1.resources
+E:\Users\Kauã\AppData\Local\Temporary Projects\PythonJavascript\obj\x86\Debug\PythonJavascript.Resources.resources
+E:\Users\Kauã\AppData\Local\Temporary Projects\PythonJavascript\obj\x86\Debug\PythonJavascript.vbproj.GenerateResource.Cache
+E:\Users\Kauã\AppData\Local\Temporary Projects\PythonJavascript\obj\x86\Debug\PythonJavascript.exe
+E:\Users\Kauã\AppData\Local\Temporary Projects\PythonJavascript\obj\x86\Debug\PythonJavascript.xml
+E:\Users\Kauã\AppData\Local\Temporary Projects\PythonJavascript\obj\x86\Debug\PythonJavascript.pdb
+E:\Users\Kauã\documents\visual studio 2010\Projects\PythonJavascript\PythonJavascript\obj\x86\Debug\PythonJavascript.exe
+E:\Users\Kauã\documents\visual studio 2010\Projects\PythonJavascript\PythonJavascript\obj\x86\Debug\PythonJavascript.xml
+E:\Users\Kauã\documents\visual studio 2010\Projects\PythonJavascript\PythonJavascript\obj\x86\Debug\PythonJavascript.pdb
+E:\Users\Kauã\documents\visual studio 2010\Projects\PythonJavascript\PythonJavascript\bin\Debug\PythonJavascript.exe
+E:\Users\Kauã\documents\visual studio 2010\Projects\PythonJavascript\PythonJavascript\bin\Debug\PythonJavascript.pdb
+E:\Users\Kauã\documents\visual studio 2010\Projects\PythonJavascript\PythonJavascript\bin\Debug\PythonJavascript.xml
+E:\Users\Kauã\documents\visual studio 2010\Projects\PythonJavascript\PythonJavascript\obj\x86\Debug\PythonJavascript.Form1.resources
+E:\Users\Kauã\documents\visual studio 2010\Projects\PythonJavascript\PythonJavascript\obj\x86\Debug\PythonJavascript.Resources.resources
+E:\Users\Kauã\documents\visual studio 2010\Projects\PythonJavascript\PythonJavascript\obj\x86\Debug\PythonJavascript.vbproj.GenerateResource.Cache
+E:\Users\Kauã\documents\visual studio 2010\Projects\PythonJavascript\PythonJavascript\obj\x86\Debug\PythonJavascript.Form2.resources

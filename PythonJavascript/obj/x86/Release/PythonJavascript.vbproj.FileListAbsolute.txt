@@ -1,0 +1,10 @@
+E:\Users\Kauã\documents\visual studio 2010\Projects\PythonJavascript\PythonJavascript\bin\Release\PythonJavascript.exe
+E:\Users\Kauã\documents\visual studio 2010\Projects\PythonJavascript\PythonJavascript\bin\Release\PythonJavascript.pdb
+E:\Users\Kauã\documents\visual studio 2010\Projects\PythonJavascript\PythonJavascript\bin\Release\PythonJavascript.xml
+E:\Users\Kauã\documents\visual studio 2010\Projects\PythonJavascript\PythonJavascript\obj\x86\Release\PythonJavascript.Form1.resources
+E:\Users\Kauã\documents\visual studio 2010\Projects\PythonJavascript\PythonJavascript\obj\x86\Release\PythonJavascript.Form2.resources
+E:\Users\Kauã\documents\visual studio 2010\Projects\PythonJavascript\PythonJavascript\obj\x86\Release\PythonJavascript.Resources.resources
+E:\Users\Kauã\documents\visual studio 2010\Projects\PythonJavascript\PythonJavascript\obj\x86\Release\PythonJavascript.vbproj.GenerateResource.Cache
+E:\Users\Kauã\documents\visual studio 2010\Projects\PythonJavascript\PythonJavascript\obj\x86\Release\PythonJavascript.exe
+E:\Users\Kauã\documents\visual studio 2010\Projects\PythonJavascript\PythonJavascript\obj\x86\Release\PythonJavascript.xml
+E:\Users\Kauã\documents\visual studio 2010\Projects\PythonJavascript\PythonJavascript\obj\x86\Release\PythonJavascript.pdb
