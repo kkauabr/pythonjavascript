@@ -10,4 +10,4 @@ Para isso, você precisará do **Visual Basic 2010 Express** e no mínimo o **.N
 
 Link para baixar: https://visualstudio.microsoft.com/pt-br/vs/older-downloads/
 
-Após baixar e instalar, abra o projeto clicando 2 vezes no arquivo **PythonJavascript.sln**. Depois de abrir faça o que quiser no projeto.
+Após baixar e instalar o programa, baixe o **Source Code** do PythonScript e depois abra o projeto clicando 2 vezes no arquivo **PythonJavascript.sln**
