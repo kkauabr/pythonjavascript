@@ -1,7 +1,7 @@
 ## PROJETO *TERMINADO*!
 - Este projeto ainda aceita Pull Requests, com melhorias, funcionalidades novas, e até uma conversão para as versões do Visual Studio mais recentes.
 - Ele não será arquivado, pois ainda pode haver chance de atualizações
-- Use este projeto, faça modificações, mas sempre dando os créditos a mim! (Licensa MIT)
+- Use este projeto, faça modificações, mas sempre dando os créditos a mim! (veja licença)
 
 ## Instalador do PythonScript
 
