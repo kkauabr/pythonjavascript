@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/kkauaon/pythonscript/badge)](https://www.codefactor.io/repository/github/kkauaon/pythonscript)
+
 ## PROJETO *TERMINADO*!
 - Este projeto ainda aceita Pull Requests, com melhorias, funcionalidades novas, e até uma conversão para as versões do Visual Studio mais recentes.
 - Ele não será arquivado, pois ainda pode haver chance de atualizações
